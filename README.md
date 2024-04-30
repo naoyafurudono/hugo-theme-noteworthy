@@ -1,5 +1,7 @@
 # Noteworthy
 
+This repository is a fork of [kimcc/hugo-theme-noteworthy](https://github.com/kimcc/hugo-theme-noteworthy).
+
 Noteworthy is a minimalist Hugo theme for writers and bloggers.
 
 ![Noteworthy desktop screenshot](https://github.com/kimcc/hugo-theme-noteworthy/blob/master/images/screenshot.png)
